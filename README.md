@@ -3,7 +3,7 @@ Official implementation of the paper: "Efficient Mamba-based Comprehensive Conte
 ## Dataset
 The downloaded files should be placed as follows. Otherwise, please replace the default path to your custom locations.
 ```
-|- ADA-CM
+|- MCCHOI
 |   |- hicodet
 |   |   |- hico_20160224_det
 |   |       |- annotations
